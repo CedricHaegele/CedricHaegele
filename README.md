@@ -39,7 +39,6 @@ Après plusieurs années en support informatique chez Allianz, je me forme activ
 📬 **Contact**  
 🔗 [LinkedIn](https://www.linkedin.com/in/cedric-haegele)  
 📧 zikced@yahoo.fr  
-## Hi there 👋
 
 <!--
 **CedricHaegele/CedricHaegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
